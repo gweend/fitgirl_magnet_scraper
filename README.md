@@ -1,5 +1,5 @@
 # fitgirl_magnet_scraper
-simple crude bash script that collects the primary magnet link for all fitgirl torrents and places them in a .txt document
+simple crude bash script that collects the primary magnet links for all of fitgirls torrents and places them in a .txt document
 
 needs to be ran as admin 
 
