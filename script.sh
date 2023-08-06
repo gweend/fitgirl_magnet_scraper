@@ -4,7 +4,7 @@
 apt-get install curl -y
 apt-get install lynx -y
 #{1..x} where x is the max page depth within pagination: https://fitgirl-repacks.site/all-my-repacks-a-z
-for page in {1..68} 
+for page in {1..200} 
 do
 #download source and run tests to turnicate:
   rm -rf test.html && rm -rf fitsource.txt && rm -rf test2.html
